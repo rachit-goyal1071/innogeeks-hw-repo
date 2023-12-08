@@ -1,0 +1,288 @@
+.background{
+    height: 53rem;
+    width: 60rem;
+    background-color: rgb(250, 245, 240);
+    box-shadow: 0.3rem 0.3rem 1rem 0.2rem rgb(165, 164, 164);
+    margin-left: 18rem;
+    margin-top: 3rem;
+    border-radius: 1rem;
+}
+.welc{
+    display: flex;
+}
+.welcome{
+    height: 8rem;
+    width: 50rem;
+    
+}
+.w1{
+    margin-left: 15rem;
+}
+.w1 h1{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    color: rgb(4, 3, 64);
+}
+.w2{
+    margin-left: 20.5rem;
+    margin-top: -1.5rem;
+}
+.w2 h3{
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(50, 138, 138, 0.874);
+}
+.icons{
+    height: 4.5rem;
+    width: 3rem;
+    background-color: white;
+    margin-top: 3.5rem;
+    border-radius: 0.5rem;
+}
+.i1{
+    margin-top: 0.5rem;
+    margin-left: 0.8rem;
+}
+.i2{
+    margin-left: 0.9rem;
+    font-size: 13px;
+}
+.cont{
+    display: flex;
+    margin-left: 6rem;
+}
+h2{
+    margin-top: 3rem;
+    margin-left: 8rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+.circle{
+    height: 1rem;
+    width: 0.9rem;
+    background-color: red;
+    border-radius: 5rem;
+    padding-left: 0.1rem;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
+.r11{
+    display: flex;
+    width: 8rem;
+    
+}
+.ic2{
+    height: 3rem;
+    width: 3rem;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+}
+.r1{
+    height: 8.5rem;
+    width: 8rem;
+    background-color: white;
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+.ic3{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+.r12{
+    margin-left: 1.4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 1rem;
+}
+.r12 a{
+    text-decoration: none;
+    color: rgb(10, 80, 138);
+    font-size: 17px;
+}
+.ic4{
+    height: 3.3rem;
+    width: 3.3rem;
+    background-color: rgba(239, 237, 237, 0.636);
+    border-radius: 50%;
+    margin-left: 2.3rem;
+    margin-top: 1.1rem;
+    
+}
+.r1x{
+    height: 8.5rem;
+    width: 8rem;
+    background-color: rgb(235, 9, 9);
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+.ic4 i{
+    margin-left: 1.2rem;
+    margin-top: 1.1rem;
+}
+.r123 a{
+    margin-left: 1.4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 1rem;
+    font-size: 14px;
+    text-decoration: none;
+    color: rgba(248, 249, 250, 0.866);
+    
+}
+.r4{
+    height: 8.5rem;
+    width: 10rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+.r4 a{
+    text-decoration: none;
+    color: rgb(4, 4, 72);
+    margin-left: 3.2rem;
+    
+
+}
+.signup{
+    margin-top: 2.8rem;
+}
+.help{
+    margin-left: 0.8rem;
+}
+.icn{
+    height: 2rem;
+    width: 2rem;
+    background-color: rgb(248, 152, 8);
+    border-radius: 0.3rem;
+    
+}
+.icn i{
+    margin-top: 0.5rem;
+    margin-left: 0.6rem;
+}
+.txt a{
+    color: rgb(4, 4, 88);
+}
+.fl{
+    margin-left: 6rem;
+    margin-top: 2.5rem;
+}
+.boundary{
+    display: flex;
+}
+.ll{
+    margin-left: 1.5rem;
+    margin-top: 2.5rem;
+}
+.or{
+    margin-top: -1rem;
+    margin-left: -6rem;
+}
+.whitebg{
+    height: 23rem;
+    width: 52rem;
+    background-color: white;
+    margin-left: 4rem;
+    border-radius: 1.6rem;
+    box-shadow: 0.2rem 0.2rem 0.5rem 0.5rem rgba(70, 69, 69, 0.297);
+
+}
+.l11 input{
+    height: 2.4rem;
+    width: 15rem;
+    border-radius: 0.5rem;
+}
+.log1{
+    display: flex;
+    margin-left: 5rem;
+}
+.l1{
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+.l1 h3{
+    font-size: 13px;
+
+}
+.l1 a{
+    
+    color: black;
+}
+.whitebg button{
+    height: 2.8rem;
+    width: 30rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 0.5rem;
+    margin-left: 10.5rem;
+    border-radius: 0.5rem;
+    
+}
+button h3{
+    font-size: 14px;
+}
+.log2 button{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.916);
+    border: 0rem;
+}
+.log3 button{
+    background-color: red;
+    color: white;
+    border: 0rem;
+}
+.log4{
+    display: flex;
+    margin-left: 11rem;
+    margin-top: 1rem;
+}
+.log4 h3{
+    margin-top: -0.1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.google{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 3rem;
+    margin-right: 3rem;
+    
+
+}
+.google img{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 3rem;
+}
+.face{
+    font-size: 34px;
+    margin-right: 3rem;
+}
+.twit{
+    height: 2rem;
+    width: 2rem;
+    background-color: rgb(12, 94, 200);
+    border-radius: 3rem;
+
+}
+.twit i{
+    font-size: 22px;
+    margin-top: 0.3rem;
+    margin-left: 0.4rem;
+}
+.icons1{
+    display: flex;
+    height: 2rem;
+    width: 30rem;
+    margin-top: -0.3rem;
+    margin-left: 19rem;
+}
+.agreement{
+    margin-left: 8rem;
+}
+.ic2 img{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 3rem;
+}
+

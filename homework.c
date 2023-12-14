@@ -20,26 +20,26 @@
 // }
 
 // Question2
+// int main()
+// {
+//     int num;
+//     printf("Enter the num : ");
+//     scanf("%d",&num);
 
-
-int main()
-{
-    int num;
-    printf("Enter the num : ");
-    scanf("%d",&num);
-
-        if(num%3==0)
-        printf("Fizz");
+//         if(num%3==0)
+//         printf("Fizz");
         
-        else if (num%5==0)
-        printf("Buzz");
+//         else if (num%5==0)
+//         printf("Buzz");
 
-        else if(num%3==0 && num%5==0 )
-        printf("FizzBuzz");
+//         else if(num%3==0 && num%5==0 )
+//         printf("FizzBuzz");
 
-        else
-        printf("Entry is other than 3 and 5 which is : %d ",num);
+//         else
+//         printf("Entry is other than 3 and 5 which is : %d ",num);
         
-    return 0;
-}
+//     return 0;
+// }
+
+// Qustion3 patterm
 
